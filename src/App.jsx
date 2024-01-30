@@ -1,3 +1,4 @@
+import React from "react";
 import Editor from "./components/Editor.jsx";
 import Preview from "./components/Preview.jsx";
 

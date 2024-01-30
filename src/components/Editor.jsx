@@ -1,4 +1,4 @@
-import { useRef, useState, useEffect } from "react";
+import React, { useRef, useState, useEffect } from "react";
 import useStore from "../store.js";
 import cheatsheet from "../cheatsheet.js";
 import Markdown from "react-markdown";
